@@ -1,1 +1,2 @@
-print('hello')
+a = 'razik'
+print(a)
